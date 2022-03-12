@@ -1,0 +1,93 @@
+body{
+	font-size:16px;
+	color:#fff;
+	background-color: #fff;
+	font-family: 'Playfair Display', serif;
+}
+#header-nav{
+	background-color: grey;
+	border-radius:0;
+	border:0;
+}
+
+.navbar-brand{
+	padding-top: 25px;
+}
+.navbar-brand h1{
+	font-family: 'Lora', serif;
+	color: #000;
+	font-size: 1.5em;
+	font-weight: bold;
+	text-shadow: 1px 1px 1px #145E37;
+	margin-top: 0;
+	margin-bottom: 0;
+	line-height: .95;
+}
+.navbar-brand p{
+	color: #4E1433;
+	font-size: 0.5em;
+	margin-top: 0;
+	margin-bottom: 0;
+}
+#nav-list{
+	margin-top: 10px;
+}
+#nav-list a{
+	color: maroon;
+	text-align: center;
+}
+#nav-list a:hover{
+	background: darkgreen;
+	color: white;
+}
+#nav-list a span{
+	font-size: 1.8em;
+}
+#phone{
+	margin-top: 0;
+}
+#phone a{
+	text-align: right;
+	padding-bottom: 0;
+}
+#phone div{
+	color: blue;
+	text-align: right;
+	padding-right: 15px;
+}
+.navbar-brand button .navbar-toggler, .navbar-brand .navbar-toggler-icon{
+	border: 1px solid #B26CD3;
+}
+/* END HEADER */
+#secdiv
+{
+	background-color: grey;
+	border-radius:0;
+	border:0;
+}
+header h1{
+	color: black;
+	font-weight: bold;
+	font-size: 2.2em;
+	text-align: center;
+}
+div a{
+	color: black;
+}
+div a:hover{
+	background-color: black;
+	color: white;
+}
+div h2{
+	color: black;
+	font-weight: bold;
+	font-size: 1.4em;
+}
+div p{
+	color: black;
+	font-size: 0.95em;
+}
+footer{
+	background-color: darkgray;
+	color: #000;
+}
